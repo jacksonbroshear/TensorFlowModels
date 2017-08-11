@@ -38,7 +38,7 @@ import tensorflow as tf
 # CUSTOMIZABLE: Collect/Prepare data
 datapoint_size = 1000
 batch_size = 1
-steps = 10000
+steps = 100000
 actual_W = 2
 actual_b = 10
 learn_rate = 0.001
